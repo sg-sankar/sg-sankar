@@ -24,6 +24,8 @@
 - Programmatic SEO: Automated content pages using templates, datasets, and developer collaboration (Next.js, Gatsby).
 - GenAI Tools: Practical knowledge of CrewAI, LangChain, OpenAI API, Replit, and other day-to-day AI integrations.
 - Custom Dashboards: Built internal tools using Python, Streamlit, GitHub workflows for the marketing team.
+- Exploratory Data Analysis: Univariate, Bivariate and Multivariate Analysis using suitable plots.
+- Machine Learning: Linear Regression, Decison trees , Logistic Regression, Clustering etc and its marketing applications. 
 
 ---
 
