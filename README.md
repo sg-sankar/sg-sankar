@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sankar Gurumurthy👋</h1>
 
 <p align="center">
-  <em>Head of SEO | Semantic SEO & NLP Specialist | Full-Stack Digital Marketer</em><br>
+  <em>Head of AI SEO | Semantic SEO & NLP Specialist | Full-Stack Digital Marketer</em><br>
   <strong>Solving marketing problems using Machine Learning, Data Science, AI, and Automation</strong>
 </p>
 
